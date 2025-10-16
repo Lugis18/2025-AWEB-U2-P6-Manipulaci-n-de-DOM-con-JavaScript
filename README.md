@@ -1,0 +1,1 @@
+# 2025-AWEB-U2-P6-Manipulaci-n-de-DOM-con-JavaScript
